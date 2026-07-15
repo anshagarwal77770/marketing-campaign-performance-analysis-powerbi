@@ -77,5 +77,3 @@ This project presents an end-to-end **Marketing Campaign Performance Analysis** 
 - Business Intelligence
 
 ---
-
-⭐ If you found this project useful, feel free to star this repository!
